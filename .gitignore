@@ -1,0 +1,5 @@
+*.log
+!vip.log
+nodejs/
+hannen.log 
+uk.html
